@@ -1,16 +1,16 @@
 # 🎙️ bastion-voice-engine
 
-<div align="center">
-  [![Module](https://img.shields.io/badge/Module-Haute_Fidélité-5865F2?style=for-the-badge)](#)
-  [![WebRTC](https://img.shields.io/badge/WebRTC-Enabled-23A55A?style=for-the-badge)](https://webrtc.org)
-  [![Web Audio API](https://img.shields.io/badge/Web_Audio_API-W3C-FEE75C?style=for-the-badge)](https://developer.mozilla.org/fr/docs/Web/API/Web_Audio_API)
-  [![License](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge)](LICENSE)
+<p align="center">
+  <img src="https://img.shields.io/badge/Module-Haute_Fidelite-5865F2?style=for-the-badge" alt="Module" />
+  <a href="https://webrtc.org"><img src="https://img.shields.io/badge/WebRTC-Enabled-23A55A?style=for-the-badge" alt="WebRTC" /></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/API/Web_Audio_API"><img src="https://img.shields.io/badge/Web_Audio_API-W3C-FEE75C?style=for-the-badge" alt="Web Audio API" /></a>
+  <img src="https://img.shields.io/badge/License-MIT-gray?style=for-the-badge" alt="License" />
+</p>
 
-  <p align="center">
-    <strong>Moteur de traitement vocal haute fidélité et WebRTC pour BASTION.</strong><br/>
-    Analyse fréquentielle en temps réel, détection active de prise de parole (VAD), suppression de bruit et passerelle de conférence Stage.
-  </p>
-</div>
+<p align="center">
+  <strong>Moteur de traitement vocal haute fidélité et WebRTC pour BASTION.</strong><br/>
+  Analyse fréquentielle en temps réel, détection active de prise de parole (VAD), suppression de bruit et passerelle de conférence Stage.
+</p>
 
 ---
 
@@ -81,4 +81,3 @@ stage.on('handRaisedChange', ({ raised }) => {
 ## 📄 Licence
 
 Distribué sous licence **MIT**. Développé pour l'écosystème **BASTION**.
-
