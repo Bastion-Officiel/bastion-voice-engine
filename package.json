@@ -1,0 +1,21 @@
+{
+  "name": "@bastion-hub/voice-engine",
+  "version": "1.0.0",
+  "description": "Moteur de traitement vocal haute fidélité et WebRTC pour BASTION (VAD, analyse fréquentielle et passerelle Stage)",
+  "main": "index.js",
+  "keywords": [
+    "bastion",
+    "webrtc",
+    "voice",
+    "audio",
+    "vad",
+    "stage-conference",
+    "web-audio-api"
+  ],
+  "author": "BASTION Core Team",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
+
